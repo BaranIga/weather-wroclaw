@@ -77,7 +77,7 @@ weather-wroclaw/
 Clone the repository:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/BaranIga/weather-wroclaw.git
 cd weather-wroclaw
 ```
 
@@ -149,11 +149,11 @@ Generated files:
 
 ## Key Findings (Example Results)
 
-- Average temperature: 12.4°C
-- Hottest day: 32.1°C (2023-07-18)
-- Coldest day: -8.3°C (2023-01-12)
-- Wettest month: July (142 mm precipitation)
-- Rainy hours: 214 hours total
+- Average temperature: 11.79°C
+- Hottest day: 33.20°C (2024-06-30)
+- Coldest day: -12.60°C (2024-01-09)
+- Wettest month: September 
+- Rainy hours: 1379 hours total
 
 ---
 
