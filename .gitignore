@@ -13,7 +13,6 @@ data/*.csv
 
 # Output files
 output/
-plots/
 
 # IDE
 .vscode/
