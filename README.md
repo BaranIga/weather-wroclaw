@@ -11,13 +11,13 @@ The project extracts hourly weather data, transforms it into a structured datase
 The project generates the following data visualizations:
 
 ### Temperature trend (hourly)
-![Temperature trend](plots/temperature_trend.png)
+![Temperature trend](plots/temp_trend.png)
 
-### Precipitation analysis
-![Precipitation](plots/precipitation.png)
+### Temperature heatmap
+![Precipitation](plots/temp_heatmap.png)
 
-### Monthly averages
-![Monthly averages](plots/monthly_avg.png)
+### Monthly temperature
+![Monthly averages](plots/monthly_temp.png)
 
 ## Features
 
